@@ -1,6 +1,6 @@
 # Voice Power
 
-Say the word out loud. The browser listens and scores your pronunciation.
+Say the word out loud. The browser listens and scores your pronunciation. 40 words in 3 levels with Arabic meanings.
 
 A free English learning game for students and teachers. No install, no tracking, one HTML file.
 
